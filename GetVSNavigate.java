@@ -34,6 +34,8 @@ public class GetVSNavigate {
 		driver.navigate().refresh();
 	    driver.navigate().forward();
 		
+		// driver.close();
+		
 
 
 
